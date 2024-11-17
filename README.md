@@ -1,5 +1,5 @@
 # SideQuest_WebDev_Junior
-Side quest project for Junior's in Wes:Hack - WebDev Version
+Side quest project for Senior's in Wes:Hack - WebDev Version
 
 ---
 
